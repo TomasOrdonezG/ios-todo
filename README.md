@@ -7,7 +7,7 @@ I use this frequently for small tasks like: "Get back to __ about __", "Write a 
 
 This program is meant to be used in ios shortcuts with help with the [Scriptable app](https://apps.apple.com/ca/app/scriptable/id1405459188)
 
-**Contents:** This repository contains 2 programs, each consisting of 1 Shortcut and 1 Scriptable. The shortcuts are linked below and the code for the Scriptable files are in the two other files in the repository. The 2 programs are:
+**Contents:** This repository contains 2 programs, each consisting of 1 Shortcut and 1 Scriptable that runs from the shortcut. The shortcuts are linked below and the code for the Scriptable files are in the two other files in the repository. The 2 programs are:
 
 ## 1. Main program
 **[Shortcut 'TODO':](https://www.icloud.com/shortcuts/2dda3958972847179673efd2408a62bb)**  When run, this shortcut will give you 7 options:
